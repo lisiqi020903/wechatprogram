@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LISIQI's WeChatprogram note
 
 You can use the [editor on GitHub](https://github.com/lisiqi020903/wechatprogram/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
