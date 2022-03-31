@@ -1,6 +1,7 @@
 ## 云开发笔记
 # 小程序数据增删改查
 - 查询get()
+
   ![image](pic1.png)
 ## Header 2
 ### Header 3
